@@ -5,7 +5,7 @@ import user from "./json/user.json";
 import Statistics from "./components/task-2/Statistics";
 import data from "./json/data.json";
 
-import FriendList from "./components/task-3/FriendList";
+import FriendList from "./components/task-3/FriendList/FriendList";
 import friends from "./json/friends.json";
 
 import TransactionHistory from "./components/task-4/TransactionHistory";
